@@ -1,0 +1,9 @@
+adf-comparison/
+__pycache__/
+*.py[cod]
+.vscode/
+.env
+.env.*
+comparison-results*.csv
+export-status.csv
+*.partial
